@@ -22,8 +22,11 @@ have committed to do at least 3 releases per year.
 
 ## CI stability lead
 
-![CI stability sponsor](https://github.com/user-attachments/assets/53f3fd31-160a-4307-8144-de30c9f963cf)
+The project has been having ongoing issues with flaky tests and this has been a major pain point.
+The project, therefore, has a goal to hire a short term ci stability lead who can improve
+ci stability and implement tooling and processes that will provide longer term benefits
 
+![CI stability sponsor](https://github.com/user-attachments/assets/53f3fd31-160a-4307-8144-de30c9f963cf)
 
 ## Security
 
