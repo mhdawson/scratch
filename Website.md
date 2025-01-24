@@ -63,5 +63,5 @@ to the project per year include:
 
 Organizations and individuals who have contributed at least $500 per year to the project. A
 full list of supporters is available on our GitHub sponsors and Open Collective pages:
-*https://github.com/sponsors/nodejs
+* https://github.com/sponsors/nodejs
 * https://opencollective.com/nodejs
