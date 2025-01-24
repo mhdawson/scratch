@@ -15,8 +15,8 @@ For cases were volunteers are not a great fit and for non-people resources we ar
 sponsors listed on their page for their support. 
 
 ## Releasers
-Regular and timely releases are a key goal for the projectsc. Organizations and individual who
-have committed to do at least 3 releases per year.
+Regular and timely releases are a key goal for the projectsc. Organizations and individuals that support
+the project by committing to do at least 3 releases per year include:
 
 ![releasers](https://github.com/user-attachments/assets/302d2154-4644-4c82-9bd4-b07f91eb5258)
 
@@ -24,7 +24,8 @@ have committed to do at least 3 releases per year.
 
 The project has been having ongoing issues with flaky tests and this has been a major pain point.
 The project, therefore, has a goal to hire a short term ci stability lead who can improve
-ci stability and implement tooling and processes that will provide longer term benefits
+ci stability and implement tooling and processes that will provide longer term benefits. The following
+sponsors have made this possible:
 
 ![CI stability sponsor](https://github.com/user-attachments/assets/53f3fd31-160a-4307-8144-de30c9f963cf)
 
@@ -34,24 +35,27 @@ Maintaining a good security posture and addressing vulnerabilities in a timely m
 for the project. We thank the following sponsors for their support in helping to do that.
 
 ### Security Lead
-Companies and inviduals who fund our security lead for a mininmum of 20k per year.
+
+Organizations and individuals that support the project by funding our security lead for a mininmum of
+10k per year include:
 
 ![security-lead](https://github.com/user-attachments/assets/31bf1b50-f43e-4da9-b0c5-f50fcfe6f35e)
 
 ### Security Triage
-Organizations and individuals who have committed at least one person to take a regular slot in our
-security triage rotation.
+Organizations and individuals who support the project by commiting at least one person to take a regular slot in our
+security triage rotation include:
 
 ![triage-sponsors](https://github.com/user-attachments/assets/b68e9c72-7593-4310-9b7f-84e60f0f2f1e)
 
 ### Security Steward
-Organizations and individuals who have committed a least one person to take a regular slot in our
-security steward rotation.
+Organizations and individuals that support the project by committing at least one person to
+take a regular slot in our security steward rotation include:
 
 ![steward-sponsors](https://github.com/user-attachments/assets/a3473766-3607-4a7d-be73-8b1c15de6844)
 
 ## Infrastructure
-Organizations and individuals that contribute at least $5000 of resources to the project
+Organizations and individuals that support the project by contributing at least $5000 of resources
+to the project per year include:
 
 ![Untitled](https://github.com/user-attachments/assets/39fa3a2a-ae14-42e2-bf3c-39b32cd72f16)
 
