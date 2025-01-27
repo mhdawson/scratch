@@ -57,7 +57,7 @@ take a regular slot in our security steward rotation include:
 Organizations and individuals that support the project by contributing at least $5000 of resources
 to the project per year include:
 
-![Untitled](https://github.com/user-attachments/assets/39fa3a2a-ae14-42e2-bf3c-39b32cd72f16)
+![Untitled](https://github.com/user-attachments/assets/de9a9941-3252-47d2-8317-c3a48c945804)
 
 ## General supporters
 
