@@ -65,3 +65,6 @@ Organizations and individuals who have contributed at least $500 per year to the
 full list of supporters is available on our GitHub sponsors and Open Collective pages:
 * https://github.com/sponsors/nodejs
 * https://opencollective.com/nodejs
+
+  ![lager sponsors](https://github.com/user-attachments/assets/96539660-0578-4a77-97ea-92176bf1a737)
+
